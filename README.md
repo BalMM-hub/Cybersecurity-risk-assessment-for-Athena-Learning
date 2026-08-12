@@ -10,7 +10,7 @@ A structured qualitative cybersecurity risk assessment conducted for **Athena Le
 
 This project documents a cybersecurity risk assessment performed for Athena Learning Inc., a fictional organization that delivers online courses, certification programs, and virtual learning services through a cloud-hosted learning platform.
 
-The objective of the assessment was to identify the organization’s most critical assets, evaluate the cybersecurity threats affecting those assets, determine the potential business impact of identified risks, and recommend security controls to reduce operational and information security exposure.
+The objective of the assessment was to identify the organization's most critical assets, evaluate the cybersecurity threats affecting those assets, determine the potential business impact of identified risks, and recommend security controls to reduce operational and information security exposure.
 
 Unlike a vulnerability assessment or penetration test, this project focuses on **risk identification, prioritization, and risk treatment planning**, following a structured qualitative assessment methodology.
 
@@ -47,12 +47,12 @@ This assessment evaluates those risks and prioritizes them based on **likelihood
 
 ## Repository contents
 
-| File                          | Description                                                                                                                                                                              |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `risk-assessment-report.pdf`  | Comprehensive assessment report containing the business context, assessment scope, methodology, asset inventory, risk analysis, prioritized findings, and recommended security controls. |
-| `risk-register.xlsx`          | Structured risk register documenting identified assets, threats, vulnerabilities, likelihood, impact, overall risk ratings, and mitigation recommendations.                              |
-| `assets/risk-matrix.png`      | Qualitative likelihood × impact matrix used to prioritize identified cybersecurity risks.                                                                                                |
-| `assets/network-overview.png` | High-level network and asset architecture illustrating the organization’s systems, cloud services, and critical infrastructure.                                                          |
+| File | Description |
+| ---- | ------------ |
+| [`risk-assessment-report.pdf`](risk-assessment-report.pdf) | Comprehensive assessment report containing the business context, assessment scope, methodology, asset inventory, risk analysis, prioritized findings, and recommended security controls. |
+| [`risk-register.xlsx`](risk-register.xlsx) | Structured risk register documenting identified assets, threats, vulnerabilities, likelihood, impact, overall risk ratings, and mitigation recommendations. |
+| [`assets/risk-matrix.png`](assets/risk-matrix.png) | Qualitative likelihood × impact matrix used to prioritize identified cybersecurity risks. |
+| [`assets/network-overview.png`](assets/network-overview.png) | High-level network and asset architecture illustrating the organization's systems, cloud services, and critical infrastructure. |
 
 ---
 
@@ -168,4 +168,3 @@ Conducting this assessment strengthened my understanding of asset classification
 ## Disclaimer
 
 Athena Learning Inc. is a fictional organization created for educational and portfolio purposes. This assessment was independently developed to demonstrate cybersecurity risk assessment methodology and documentation practices commonly used in cybersecurity, governance, risk, and compliance (GRC) environments.
-
